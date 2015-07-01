@@ -1,0 +1,7 @@
+ExtraTorrents.cc, http://extratorrent.cc/search/?search=*, total.*>(\d+)<\/b>
+ThePirateBay, http://thepiratebay.se/search/*, approx (\d+) found, No hits
+kat.ph, http://kickass.to/usearch/*, results .* from (\d+), Nothing found
+torrentdownloads.me, http://www.torrentdownloads.me/search/?new=1&s_cat=5&search=*, <span class=\"num\">(\d+)<\/span> torrents, No results found
+torrenthound.com, http://www.torrenthound.com/search/*, (\d+) torrents found, Using extended
+torrentreactor.net, http://www.torrentreactor.net/torrent-search/*?type=all&period=none&categories=6, Music \((\d+)\)<\/option>, Music<\/option>
+bitsnoop.com, http://bitsnoop.com/search/audio/*, \d of (\d+), Aww shucks
